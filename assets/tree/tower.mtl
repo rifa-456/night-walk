@@ -1,0 +1,7 @@
+newmtl nature_bark_pear_01_l_0001
+Kd 0.1 0.1 0.1
+map_Kd nature_bark_pear_01_l_0001.jpg
+# bump nature_bark_pear_01_l_0001_b.jpg
+Ns 0.0
+d 0.0
+illum 2

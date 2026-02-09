@@ -1,0 +1,10 @@
+from engine.core.resource_loader import ResourceLoader
+from engine.resources.image.loaders.image_loader_exr import ImageLoaderEXR
+from engine.resources.image.loaders.image_loader_pillow import ImageLoaderPillow
+from engine.resources.mesh.loaders.mesh_loader_obj.mesh_loader_obj import MeshLoaderOBJ
+from engine.resources.texture.loaders.texture_loader_image import ImageTextureLoader
+
+ResourceLoader.add_resource_format_loader(ImageTextureLoader())
+ResourceLoader.add_resource_format_loader(ImageLoaderEXR())
+ResourceLoader.add_resource_format_loader(ImageLoaderPillow())
+ResourceLoader.add_resource_format_loader(MeshLoaderOBJ())
