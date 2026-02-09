@@ -1,5 +1,11 @@
 # Forest Walk
 
+## Seminário
+
+docs.google.com/presentation/d/1pxGF2tJd8qKPJCvGun1es88M5ME2hcnHr-qr4_5GJ38
+
+---
+
 ## Visão Geral
 
 **Forest Walk** é um projeto de jogo 3D em primeira pessoa desenvolvido em **Python**, utilizando uma **engine própria** inspirada na arquitetura do Godot Engine. O foco do projeto é a exploração de ambientes, com forte ênfase em imersão, atmosfera e sensação de presença, usando iluminação mínima, movimentação realista de câmera e sistemas de stamina.
